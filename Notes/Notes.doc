@@ -1,0 +1,68 @@
+Node-API --> (formerly N-API) is an API for building native Addons. 
+             It is independent from the underlying JavaScript runtime (for example, V8) 
+             and is maintained as part of Node.js itself.
+
+Hoisting --> Calling a function before declaring it
+
+Type Coercion -->Automatic conversion of values from one data type to another 
+                 during certain operations
+
+Ternary Operator --> Let result = condition ? 'Yes' : 'No' --> syntax
+
+Arrays --> Keeps data Structured
+
+While VS For
+
+argument --> actual values
+parameter --> Place holder --> then argument  is passed
+
+EVENTS 
+
+eg - Clicking a button
+user interact with a page
+        |
+        |
+    event occurs
+        |
+        |
+A peice of JS code runs in response
+        |
+        |
+Page appearance is updated
+
+event handler --> it is a callback function
+
+
+DOM --> It is a platform and language neutra interface that allows
+        programs and scripts to dynamically access and update the content, 
+        structure and style of the document
+
+
+API --> different system or application to communicate with each other
+
+Application --> Any software that has a specific purpose
+Interface --> Contract or protocol  between 2 application
+req and res cycle is API call
+
+string immutable
+
+Control flow --> Control flow in Node.js refers to the sequence in which
+                  statements and functions are executed. 
+
+Crypto module --> is used for encrypting, decrypting, or hashing any type of data.
+
+Passport module -->  is used for adding authentication features to our website or web app.
+
+Process.nextTick() --> method is used to add a new callback function at the start 
+                       of the next event queue. 
+
+function --> reusable peice of code, performs a specific task when called
+
+idempotence --> performing same operation multiple ti es and getting same output
+
+Stream --> A sequence of data thatis being moved from one point to another over time
+
+
+
+
+   
